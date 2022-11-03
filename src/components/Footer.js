@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaFacebookF, FaInstagram, FaWhatsapp } from "react-icons/fa";
+import { VscGlobe } from "react-icons/vsc";
 
 const Footer = () => {
   return (
@@ -22,9 +23,10 @@ const Footer = () => {
             </div>
             <br />
             <div className="flex text-white space-x-3">
-              <p className="hover:text-blue-500"><FaFacebookF/></p>
-              <p className="hover:text-violet-500"><FaInstagram/></p>
-              <p className="hover:text-green-600"><FaWhatsapp/></p>
+              <a href="/" className="hover:text-blue-500"><FaFacebookF/></a>
+              <a href="/" className="hover:text-violet-500"><FaInstagram/></a>
+              <a href="/" className="hover:text-green-600"><FaWhatsapp/></a>
+              <a className="hover:text-indigo-700" href="www.royallens.com"><VscGlobe/></a>
             </div>
           </div>
         </div>
