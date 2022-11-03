@@ -5,7 +5,7 @@ const Contact = () => {
     <main>
       <div className="bg-[#151515] text-white min-h-screen">
         <div className="container mx-auto p-4">
-            <h1 className="text-center py-6 mb-4">CONTACTS</h1>
+            <h1 className="text-center py-6 mb-4"><b>CONTACTS</b></h1>
             <div className="md:flex">
                 <div className="w-full space-y-3 p-4">
                     <h3>Please, contact me in any way convenient for you!</h3>
