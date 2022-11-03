@@ -15,9 +15,12 @@ const Contact = () => {
                     </p>
                     <br />
 
-                    <p>(+254) 798551778</p>
-                    <p>Johncarloz@gmail.com</p>
-                    <p>Nairobi, Kenya.</p>
+                    <div className="text-[#E0144C]">
+                        <h4>(+254) 111 522 255</h4>
+                        <a href="/carloz"><b>Website/www.royallens.com</b></a>
+                        <h4><a href="/"><b>Email/odhiambojohncarloz81@gmail.com</b></a></h4>
+                        <h4><b>Location/Nairobi, Kenya.</b></h4>
+                    </div>
                 </div>
                 <div className="w-full p-4">
                 <form>
