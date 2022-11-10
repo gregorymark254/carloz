@@ -23,10 +23,10 @@ const Footer = () => {
             </div>
             <br />
             <div className="flex text-white space-x-3">
-              <a href="https://www.facebook.com/profile.php?id=100008989771011" className="p-2 hover:text-blue-700"><FaFacebookF/></a>
-              <a href="https://instagram.com/_royal.lens.ke?utm_media=copy_link" className="p-2 hover:text-indigo-700"><FaInstagram/></a>
-              <a href="https://wa.me/+254111522255" className="hover:text-green-600"><FaWhatsapp/></a>
-              <a className="hover:text-indigo-700" href="http://royallens.vercel.app/"><VscGlobe/></a>
+              <a href="https://www.facebook.com/profile.php?id=100008989771011" className="p-2 hover:text-black text-blue-700"><FaFacebookF/></a>
+              <a href="https://instagram.com/_royal.lens.ke?utm_media=copy_link" className="p-2 hover:text-black text-indigo-700"><FaInstagram/></a>
+              <a href="https://wa.me/+254111522255" className="hover:text-black text-green-600 p-2"><FaWhatsapp/></a>
+              <a href="http://royallens.vercel.app/" className="hover:text-black text-indigo-700 p-2"><VscGlobe/></a>
             </div>
           </div>
         </div>
