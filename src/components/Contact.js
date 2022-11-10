@@ -40,6 +40,7 @@ const Contact = () => {
                                 type="text" 
                                 placeholder="Name:"
                                 required
+                                autocomplete="off"
                                 className="px-2 py-4 w-full bg-[#7A4069] focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 placeholder:text-slate-500 placeholder:font-bold"
                             />
                         </label>
@@ -48,6 +49,7 @@ const Contact = () => {
                                 type="email" 
                                 placeholder="Email Address:"
                                 required
+                                autocomplete="off"
                                 className="px-2 py-4 w-full bg-[#7A4069] focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 placeholder:text-slate-500  placeholder:font-bold"
                             />
                         </label>
@@ -56,6 +58,7 @@ const Contact = () => {
                                 type="text" 
                                 placeholder="Phone Number:"
                                 required
+                                autocomplete="off"
                                 className="px-2 py-4 w-full bg-[#7A4069] focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 placeholder:text-slate-500  placeholder:font-bold"
                             />
                         </label>
@@ -64,6 +67,7 @@ const Contact = () => {
                                 name="message" 
                                 placeholder="Message:"
                                 required
+                                autocomplete="off"
                                 className="px-2 py-4 w-full focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 text-black placeholder:text-slate-500 placeholder:font-bold"
                                 cols="30" rows="5">  
                             </textarea>
