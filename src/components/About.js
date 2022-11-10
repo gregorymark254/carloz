@@ -27,7 +27,7 @@ const About = () => {
                             </p>
                         </div>
                        <div className="mt-8 pt-4">
-                            <a className="bg-[#E0144C] py-3 px-6 hover:bg-[#e95e83]" href="https://gregorymark.netlify.app/">Learn more</a>
+                            <a className="bg-[#E0144C] py-3 px-6 hover:bg-[#e95e83]" href="http://royallens.vercel.app/">Learn more</a>
                         </div>
                     </div>
                 </div>
