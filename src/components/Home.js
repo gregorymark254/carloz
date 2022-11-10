@@ -7,7 +7,7 @@ const Home = () => {
         <div className="hero-inner">
           <h1>Hi, Am Carloz.</h1>
           <h1>Welcome to my creative life.</h1>
-          <h1>I am a <div className='console-container'><span id='text'></span><div className='console-underscore' id='console'>&#95;</div></div> </h1>
+          <h1>I am a professional</h1>
         </div>
       </section>
     </div>
