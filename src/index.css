@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Signika&display=swap);
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -33,7 +35,7 @@ code {
 
 /* hero section */
 .hero {
-  width: 99vw;
+  width: 98.5vw;
   height: 100vh;
   display: flex;
   flex-wrap: wrap;
@@ -49,8 +51,8 @@ code {
 }
 
 .hero h1 {
+  font-family: 'Signika', sans-serif;
   font-size: 5em;
-  top: 0;
   margin-top: 0;
   margin-bottom: 0.5em;
   margin-left: 50px;
