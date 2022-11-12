@@ -35,7 +35,6 @@ code {
 
 /* hero section */
 .hero {
-  width: 98.5vw;
   height: 100vh;
   display: flex;
   flex-wrap: wrap;
